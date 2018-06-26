@@ -22,10 +22,5 @@
       
       
         <a href="https://github.com/pages-themes/cayman/zipball/master" class="btn">Download .zip</a>
-        <a href="https://github.com/pages-themes/cayman/tarball/master" class="btn">Download .tar.gz</a>
       <a href="https://birdthulu.github.io/StagelistTool/" class="btn">[Stagelist Tool]</a>      <br>
     </section>
-
-    <section class="main-content">
-  </body>
-</html>
