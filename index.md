@@ -1,7 +1,7 @@
 <html lang="en-US">
   <head>
       <meta charset="UTF-8">
-      <title>Birdthulu Project M Tools</title>
+      <title>Project M Tools</title>
       <meta name="description" content="☁️ A bookmarklet for downloading images from Instagram.">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel="stylesheet" type="text/css" href="https://theus.github.io/instantgram/stylesheets/normalize.css" media="screen">
@@ -14,7 +14,7 @@
 
     <section class="page-header">
       
-      <h1 class="project-name">Birdthulu Project M Tools</h1>
+      <h1 class="project-name">Project M Customization Tools</h1>
       <h2 class="project-tagline">Tools for customizing your Project M build</h2>
       
       <a href="https://github.com/pages-themes/cayman" class="btn">View on GitHub</a>
