@@ -4,10 +4,10 @@
       <title>Project M Tools</title>
       <meta name="description" content="☁️ A bookmarklet for downloading images from Instagram.">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <link rel="stylesheet" type="text/css" href="https://theus.github.io/instantgram/stylesheets/normalize.css" media="screen">
+      <link rel="stylesheet" type="text/css" href="https://birdthulu.github.io/stylesheets/normalize.css" media="screen">
       <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-      <link rel="stylesheet" type="text/css" href="https://theus.github.io/instantgram/stylesheets/stylesheet.css" media="screen">
-      <link rel="stylesheet" type="text/css" href="https://theus.github.io/instantgram/stylesheets/github-light.css" media="screen">
+      <link rel="stylesheet" type="text/css" href="https://birdthulu.github.io/stylesheets/stylesheet.css" media="screen">
+      <link rel="stylesheet" type="text/css" href="https://birdthulu.github.io/stylesheets/github-light.css" media="screen">
 
     </head>
   <body>
