@@ -18,6 +18,6 @@
       
       <a href="https://birdthulu.github.io/StagelistTool/" class="btn">[Stagelist Tool]</a>
       <a href="https://birdthulu.github.io/MasqueradeTool/" class="btn">[Masquerade Tool]</a>
-      <a href="https://github.com/pages-themes/cayman/zipball/master" class="btn">Download .zip</a>      <br>
+      <a href="" class="btn">Placeholder Button</a>      <br>
       <small>Click any button to go to a tool</small>
     </section>
