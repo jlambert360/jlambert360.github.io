@@ -1,6 +1,6 @@
 {"hash": "d6800a124dbba118e297188900d07adfea661b88",
- "changelog": "Update Readme.md \n"
-              "Create frame dump folder if it doesn't exist \n"
-              "Add /dev/dolphin for homebrew to get information about Dolphin \n"
-              "Test \n",
+ "changelog": "Update Readme.md \n" +
+ "Create frame dump folder if it doesn't exist \n" +
+ "Add /dev/dolphin for homebrew to get information about Dolphin \n" +
+ "Test \n",
  "update-page": "https://projectplusgame.com/download/"}
