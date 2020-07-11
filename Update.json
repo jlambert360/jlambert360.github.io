@@ -1,4 +1,5 @@
-{"hash": "d6800a124dbba118e297188900d07adfea661b88",
+{"hash": "d6800a124dbba118e297188900d07adfea661b87",
+ "version": "FPM v2.15 BETA",
  "changelog": "Save client side music off setting \nCreate frame dump folder if it doesn't exist \nAdd /dev/dolphin for homebrew to get information about Dolphin \nDump textures in only .png",
  "update-page": "https://projectplusgame.com/download/",
  "download-page-windows": "http://download1394.mediafire.com/zakj23canmtg/7yt5o4vci83mid0/Project%2B+v2.15+Netplay+%28Windows%29.zip",
