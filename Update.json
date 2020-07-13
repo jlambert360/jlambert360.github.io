@@ -2,5 +2,5 @@
  "version": "FPM v2.15 BETA",
  "changelog": "Save client side music off setting \nCreate frame dump folder if it doesn't exist \nAdd /dev/dolphin for homebrew to get information about Dolphin \nDump textures in only .png",
  "update-page": "https://projectplusgame.com/download/",
- "download-page-windows": "https://www.dl.dropboxusercontent.com/s/1fmkb1d5enuxh3r/Project%2B%20v2.15%20Netplay%20%28Windows%29.zip",
+ "download-page-windows": "https://www.dl.dropboxusercontent.com/s/1fmkb1d5enuxh3r/Project%2B%20v2.15%20Netplay%20%28Windows%29.zip?dl=0",
  "download-page-mac": "http://download1394.mediafire.com/zakj23canmtg/7yt5o4vci83mid0/Project%2B+v2.15+Netplay+%28Windows%29.zip"}
