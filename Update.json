@@ -1,7 +1,7 @@
-{"hash": "4eaa4eee2a055ce43748e681ef2ce2a9338926e8",
- "version": "FPM v2.15 Test BETA",
- "changelog": "Save client side music off setting \nCreate frame dump folder if it doesn't exist \nAdd /dev/dolphin for homebrew to get information about Dolphin \nDump textures in only .png",
- "updater-update": "true",
+{"hash": "4aa077433453fcd06d28b66a52f6f939c46254c9",
+ "version": "Bird Build v4.2 BETA",
+ "changelog": "",
+ "updater-update": "false",
  "update-page": "https://projectplusgame.com/download/",
- "download-page-windows": "https://www.dl.dropboxusercontent.com/s/t2r0we9i2cgaefw/Test%20Download.zip?dl=0",
- "download-page-mac": "https://dl.dropbox.com/s/g3z921dgy7g4lxx/TEST-update.zip?dl=0"}
+ "download-page-windows": "",
+ "download-page-mac": ""}
