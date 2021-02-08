@@ -3,5 +3,5 @@
  "changelog": "",
  "updater-update": "false",
  "update-page": "https://projectplusgame.com/download/",
- "download-page-windows": "",
+ "download-page-windows": "https://github.com/jlambert360/PPlusReleases/releases/download/2.25/BirdBuild4.25Windows.zip",
  "download-page-mac": "https://github.com/jlambert360/PPlusReleases/releases/download/2.25/PPlusv2.25Mac.zip"}
