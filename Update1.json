@@ -1,7 +1,7 @@
-{"hash": "4aa077433453fcd06d28b66a52f6f939c46254c9",
- "version": "FPM v2.2 TEST BETA",
- "changelog": "",
+{"hash": "bc4219db81884df8cc864c3693b30897d1a03c2a",
+ "version": "FPM v2.26 BETA",
+ "changelog": "Test",
  "updater-update": "false",
  "update-page": "https://projectplusgame.com/download/",
- "download-page-windows": "https://github.com/Birdthulu/DolphinUpdater/releases/download/1/BirdBuildTest.zip",
+ "download-page-windows": "https://github.com/jlambert360/PPlusReleases/releases/download/2.26/PPlusTest.zip",
  "download-page-mac": ""}
