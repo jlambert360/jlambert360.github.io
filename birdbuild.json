@@ -1,5 +1,7 @@
-{"hash": "75123e34eac5b0f3204f32a116c389f95da0766a",
- "version": "Bird Build v4.28 BETA",
- "changelog": "Update to P+ 2.28 \nFix Olimar and end racism",
- "download-page-windows": "https://github.com/jlambert360/PPlusReleases/releases/download/2.28/BirdBuild4.28Windows.zip",
+{"hash": "81e0a8f8a53f429b341d440ddb2d2b7802b66d52",
+ "version": "Bird Build v4.29 BETA",
+ "updater-update": "false",
+ "update-page": "https://projectplusgame.com/download/",
+ "changelog": "Update to P+ 2.29 \nIntroduce KingBuild stages with a code menu toggle \nSpectator mode hitbox is no longer the size of saturn",
+ "download-page-windows": "https://github.com/jlambert360/PPlusReleases/releases/download/2.29/BirdBuildUpdate.zip",
  "download-page-mac": ""}
