@@ -23,6 +23,5 @@
       <a href="https://github.com/Brawlback-Team/MakeSD" class="btn">[MakeSD by Bird and Syvkal]</a>
 	  <a href="https://ux.getuploader.com/iclpxnohokanko1/" class="btn">[PSA Compressor by ICLPX]</a>
 	  <a href="https://github.com/ilazoja/project-plus-memory-tools/releases" class="btn">[Project Plus Memory Tools by Kapedani]</a>
-	  
-      <small>Click any button to go to a tool</small>
+	  <a href="https://github.com/jlambert360/CostumePacDeleter" class="btn">[Costume Pac Deleter by Bird]</a>
     </section>
