@@ -1,7 +1,7 @@
 {"hash": "81e0a8f8a53f429b341d440ddb2d2b7802b66d52",
- "version": "Bird Build v4.2.29 BETA",
+ "version": "Bird Build v4.3.29 BETA",
  "updater-update": "false",
  "update-page": "https://projectplusgame.com/download/",
- "changelog": "Add tournament launcher \nNew pirateship body",
+ "changelog": "Add tournament launcher \nNew pirateship body \nHotfix ics",
  "download-page-windows": "https://github.com/jlambert360/PPlusReleases/releases/download/2.29/BirdBuildUpdate.zip",
  "download-page-mac": ""}
