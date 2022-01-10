@@ -2,6 +2,6 @@
  "version": "Bird Build v4.2.29 BETA",
  "updater-update": "false",
  "update-page": "https://projectplusgame.com/download/",
- "changelog": "Add random teams code \nDisable fudgepop code menu on netplay \nFix ICs \nAdd stage stats to stage previews \nRemove Ferrari jump from Ike \nNew camera for Bridge of Eldin, Duskull, Pirate Ship, and Subspace",
+ "changelog": "Add tournament launcher \nNew pirateship body",
  "download-page-windows": "https://github.com/jlambert360/PPlusReleases/releases/download/2.29/BirdBuildUpdate.zip",
  "download-page-mac": ""}
