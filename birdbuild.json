@@ -1,7 +1,7 @@
-{"hash": "d05d68d988873f679dc59d62f219983b82d771cd",
- "version": "Bird Build v4.3 BETA",
+{"hash": "141eb81fd0e5ba161fcdb7b746f41c4bba1a5577",
+ "version": "Bird Build v4.3.1 BETA",
  "updater-update": "false",
  "update-page": "https://projectplusgame.com/download/",
- "changelog": "Update to P+ 2.3 \nBrought back old css tag select \nHitlag removed from NY smashville balloon \nExpanded Pirate Ship Side Blast Zones by 3 units each \nBridge of Eldin replaced with daytime variant",
- "download-page-windows": "https://github.com/jlambert360/PPlusReleases/releases/download/2.3/BirdBuildUpdate.zip",
+ "changelog": "Update to P+ 2.3.1 \nBrought back old css tag select \nHitlag removed from NY smashville balloon \nExpanded Pirate Ship Side Blast Zones by 3 units each \nBridge of Eldin replaced with daytime variant",
+ "download-page-windows": "https://github.com/jlambert360/PPlusReleases/releases/download/2.3.1/BirdBuildUpdate.zip",
  "download-page-mac": ""}
