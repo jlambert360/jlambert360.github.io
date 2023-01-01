@@ -2,6 +2,6 @@
  "version": "Bird Build v4.3.2 BETA",
  "updater-update": "false",
  "update-page": "https://projectplusgame.com/download/",
- "changelog": "Update to P+ 2.3.2 \nNew EC Stagelist \n EC stagelist loaded from tournament launcher and code menu \nFixed midnight smashville not showing up",
+ "changelog": "Update to P+ 2.3.2 \nNew EC Stagelist \nEC stagelist loaded from tournament launcher and code menu \nFixed midnight smashville not showing up",
  "download-page-windows": "https://github.com/jlambert360/PPlusReleases/releases/download/2.3.2/BirdBuildUpdate.zip",
  "download-page-mac": ""}
