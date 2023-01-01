@@ -1,7 +1,7 @@
-{"hash": "141eb81fd0e5ba161fcdb7b746f41c4bba1a5577",
- "version": "Bird Build v4.3.1 BETA",
+{"hash": "1c1e6c6f56db5e9123a9d344422273577cd1287d",
+ "version": "Bird Build v4.3.2 BETA",
  "updater-update": "false",
  "update-page": "https://projectplusgame.com/download/",
- "changelog": "Update to P+ 2.3.1 \nBrought back old css tag select \nHitlag removed from NY smashville balloon \nExpanded Pirate Ship Side Blast Zones by 3 units each \nBridge of Eldin replaced with daytime variant",
- "download-page-windows": "https://github.com/jlambert360/PPlusReleases/releases/download/2.3.1/BirdBuildUpdate.zip",
+ "changelog": "Update to P+ 2.3.2 \nNew EC Stagelist \n EC stagelist loaded from tournament launcher and code menu \nFixed midnight smashville not showing up",
+ "download-page-windows": "https://github.com/jlambert360/PPlusReleases/releases/download/2.3.2/BirdBuildUpdate.zip",
  "download-page-mac": ""}
