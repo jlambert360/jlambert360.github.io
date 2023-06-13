@@ -1,7 +1,7 @@
-{"hash": "1c1e6c6f56db5e9123a9d344422273577cd1287d",
- "version": "Bird Build v4.3.2 BETA",
+{"hash": "568942c135e4663b04f2affc60bf8d06b4fe26da",
+ "version": "Bird Build v4.4.1 BETA",
  "updater-update": "false",
  "update-page": "https://projectplusgame.com/download/",
- "changelog": "Update to P+ 2.3.2 \nNew EC Stagelist \nEC stagelist loaded from tournament launcher and code menu \nFixed midnight smashville not showing up",
- "download-page-windows": "https://github.com/jlambert360/PPlusReleases/releases/download/2.3.2/BirdBuildUpdate.zip",
+ "changelog": "Update to P+ 2.4.1 \nNew King Build Stagelist",
+ "download-page-windows": "https://github.com/jlambert360/PPlusReleases/releases/download/2.4.1/BirdBuildUpdate.zip",
  "download-page-mac": ""}
