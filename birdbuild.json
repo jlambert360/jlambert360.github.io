@@ -1,7 +1,7 @@
-{"hash": "568942c135e4663b04f2affc60bf8d06b4fe26da",
- "version": "Bird Build v4.4.1.1 BETA",
+{"hash": "73c9b7c6f5bccc2ed5b55c1b7291edc11d3b58aa",
+ "version": "Bird Build v4.4.2 BETA",
  "updater-update": "false",
  "update-page": "https://projectplusgame.com/download/",
- "changelog": "Update to P+ 2.4.1 \nNew King Build Stagelist",
- "download-page-windows": "https://github.com/jlambert360/PPlusReleases/releases/download/2.4.1/BirdBuildUpdate.zip",
+ "changelog": "Update to P+ 2.4.2",
+ "download-page-windows": "https://github.com/jlambert360/PPlusReleases/releases/download/2.4.2/BirdBuildUpdate.zip",
  "download-page-mac": ""}
